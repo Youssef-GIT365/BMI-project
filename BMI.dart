@@ -22,7 +22,7 @@ void main() {
   } else if (bmi < 30) {
     category = 'Overweight';
   } else {
-    category = 'Obese';
+    category = 'You are not human';
   }
 
   print('Category: $category');
